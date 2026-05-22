@@ -12,3 +12,7 @@ It demonstrates my understanding of version control, repository management, and 
 - Sql
 - systems
 - web development
+## What I learned about GitHub
+- I learned how to create a repository and README file.
+- I practiced committing changes and updating files.
+- I explored GitHub by starring repositories and following developers.
